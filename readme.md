@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="Screenshot 2026-05-13 174915.jpg" width="48%" />
+  <img src="Screenshot 2026-05-13 174929.jpg" width="48%" />
+  <img src="Screenshot 2026-05-13 174946.jpg" width="48%" />
+  <img src="Screenshot 2026-05-13 175046.jpg" width="48%" />
+</p>
 Teams play meaningful matches in third-party events throughout the year. To reduce the burden on Major participants and streamline the Major qualification process, we’re going to leverage those match results to identify teams that should be invited to later qualification stages. 
 
 Our goals for the resulting Regional Standings are that they are accurate, not easily gamed, and have a transparent process.
